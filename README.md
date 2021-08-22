@@ -10,7 +10,9 @@ https://thelocalfeet.com
 
 #### Tools we used
 
-React.js, Next.js, Sanity studio, Google Analytics, vercel hosting, Sanity cloud hosting, Formspee, Convertkit.
+**Previously** : HTML, CSS, JavaScript, GSAP
+
+**Now**: React.js, Next.js, Sanity studio, Google Analytics, vercel hosting, Sanity cloud hosting, Formspee, Convertkit.
 
 ### Screen shot:
 
