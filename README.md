@@ -14,6 +14,8 @@ https://thelocalfeet.com
 
 **Now**: React.js, Next.js, Sanity studio, Google Analytics, vercel hosting, Sanity cloud hosting, Formspee, Convertkit.
 
+**Source code: https://github.com/SujoyKrHaldar/thelocalfeet-Frontend**
+
 ### Screen shot:
 
 ![Desktop screenshot](https://github.com/SujoyKrHaldar/thelocalfeet.com-v2/blob/main/preview/Desktop.png)
